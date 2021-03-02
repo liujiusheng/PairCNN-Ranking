@@ -17,3 +17,7 @@ tensorflow使用0.12版本
 ubuntu上pip的安装参考：
 
 https://zhuanlan.zhihu.com/p/137114974
+
+pip包下载加速：
+
+https://blog.csdn.net/yucicheung/article/details/79095742
