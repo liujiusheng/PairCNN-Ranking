@@ -8,3 +8,12 @@ As **train.txt** and **test.txt** in **./data** dir, each line is an sample, whi
 ```bash
 python train.py -h
 ```
+
+
+需要使用python2.7
+tensorflow使用0.12版本
+只能在liunx下运行，windows上没有tensorflow这个包
+
+ubuntu上pip的安装参考：
+
+https://zhuanlan.zhihu.com/p/137114974
